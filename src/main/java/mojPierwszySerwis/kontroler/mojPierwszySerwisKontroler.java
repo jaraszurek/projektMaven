@@ -12,6 +12,6 @@ public class mojPierwszySerwisKontroler {
 }
 	@RequestMapping(value="/pozyczka")
 	public String hello2() {
-	return "<html><body><b>a tu pozyczka<p>druga linia</p></b></body></html>";
+	return "<html><body><b>a tu pozyczka2<p>druga linia</p></b></body></html>";
 }
 }
